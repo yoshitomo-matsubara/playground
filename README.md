@@ -1,2 +1,2 @@
-# playground
-a repository for learning purposes
+# Playground
+A repository for learning purposes
